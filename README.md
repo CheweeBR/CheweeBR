@@ -13,29 +13,19 @@
 <div>
   <h3>Sobre mim 🌎</h3>
   <p>
-    🎓 Sou um <b>Desenvolvedor Full Stack</b> formado em <b>Análise e Desenvolvimento de Sistemas</b> na
-    <a href="https://www.utfpr.edu.br/" target="_blank">
-      <img src="https://img.shields.io/badge/UTFPR-FFCD00?style=for-the-badge&logoColor=black">
-    </a>
+    🎓 Sou um <b>Desenvolvedor Full Stack</b> formado em <b>Análise e Desenvolvimento de Sistemas</b> na UTFPR.
   </p>
   <p>
     ✨ <b>Meu sonho é tornar o mundo um lugar melhor com a tecnologia.</b>
   </p>
   <p>
-    Acredito que o código é uma ferramenta para resolver problemas reais e facilitar a vida das pessoas.
+    💡Acredito que o código é uma ferramenta para resolver problemas reais e facilitar a vida das pessoas.
   </p>
   <p>
     🚀 <b>Stack Atual:</b> Foco em criar soluções robustas com <b>React</b> e <b>Node.js</b>, sempre de olho em boas práticas e novas arquiteturas.
   </p>
 </div>
 <br>
-
-<div>
-  <a href="https://github.com/CheweeBR">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=CheweeBR&show_icons=true&theme=radical&include_allcommits=true&counts_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheweeBR&layout=compact&langs_count=16&theme=radical"/>
-  </a>
-</div>
 
 ## Tech Stack
 
