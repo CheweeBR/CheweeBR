@@ -1,4 +1,4 @@
-### Hi, I'm Tiago Possidonio 🖖
+### Olá, me chamo Tiago Possidonio 🖖
 <div>
   <a href="mailto:tiagoeloypossi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -11,14 +11,21 @@
 <br>
 
 <div>
+  <h3>Sobre mim 🌎</h3>
   <p>
-    💻 <b>Desenvolvedor Full Stack</b> focado em arquitetura de software e aplicações web modernas.
+    🎓 Sou um <b>Desenvolvedor Full Stack</b> formado em <b>Análise e Desenvolvimento de Sistemas</b> na
+    <a href="https://www.utfpr.edu.br/" target="_blank">
+      <img src="https://img.shields.io/badge/UTFPR-FFCD00?style=for-the-badge&logoColor=black">
+    </a>
   </p>
   <p>
-    🚀 Tenho sólida experiência na construção de soluções escaláveis utilizando <b>React</b> e <b>Node.js</b>. Gosto de resolver problemas complexos no back-end e criar interfaces fluidas no front-end.
+    ✨ <b>Meu sonho é tornar o mundo um lugar melhor com a tecnologia.</b>
   </p>
   <p>
-    🎯 <b>Stack Principal:</b> JavaScript/TypeScript, React, Node.js e Cloud Computing.
+    Acredito que o código é uma ferramenta para resolver problemas reais e facilitar a vida das pessoas.
+  </p>
+  <p>
+    🚀 <b>Stack Atual:</b> Foco em criar soluções robustas com <b>React</b> e <b>Node.js</b>, sempre de olho em boas práticas e novas arquiteturas.
   </p>
 </div>
 <br>
@@ -105,9 +112,18 @@
   </a>
 </div>
 
-### Other Skills (IoT Integration)
+### IoT
 
 <div style="display: inline_block">
+  <a href="https://www.raspberrypi.org/">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  </a>
+  <a href="https://www.espressif.com/">
+    <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+  </a>
   <a href="https://mqtt.org/">
     <img src="https://img.shields.io/badge/MQTT-3C1D3C?style=for-the-badge&logo=mqtt&logoColor=white">
   </a>
